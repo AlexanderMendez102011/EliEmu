@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="KotlinJavaRuntime">
+    <archive path="C:/Users/MelCep Unlock Server/Desktop/alex/lib/kotlin-stdlib.jar" />
+    <archive path="C:/Users/MelCep Unlock Server/Desktop/alex/lib/kotlin-reflect.jar" />
+    <archive path="C:/Users/MelCep Unlock Server/Desktop/alex/lib/kotlin-test.jar" />
+    <archive path="C:/Users/MelCep Unlock Server/Desktop/alex/lib/kotlin-stdlib-jdk7.jar" />
+    <archive path="C:/Users/MelCep Unlock Server/Desktop/alex/lib/kotlin-stdlib-jdk8.jar" />
+  </library>
+</eclipse-userlibraries>
+
